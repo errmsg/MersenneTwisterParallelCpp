@@ -5,7 +5,7 @@ Based on the code written by Takuji Nishimura and Makoto Matsumoto. Code is init
 ## Installation
 ```bash
 $ cd to/path/that/you/wish
-$ git clone
+$ git clone https://github.com/errmsg/MersenneTwisterParallelCpp.git
 ```
 
 ## Dependencies
